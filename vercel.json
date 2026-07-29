@@ -10,7 +10,7 @@
     { "src": "/wikannz", "dest": "/wikannz.js" },
     { "src": "/ahtsham", "dest": "/ahtsham.js" },
     { "src": "/Shoibnz", "dest": "/Shoibnz.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
+    { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
 }
